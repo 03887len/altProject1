@@ -74,6 +74,7 @@ body {
     .content-center {
     margin-top: 20px;
     display: flex;
+    justify-content: space-around;
 
         .left, .center, .right{
         width: 33%;
