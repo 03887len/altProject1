@@ -67,6 +67,7 @@ body {
   margin-top: 20px;
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 .banner .content-center .left, .banner .content-center .center, .banner .content-center .right {
   width: 33%;
